@@ -6,5 +6,6 @@ This repo is a collection of the codes for personal and professional projects ac
 3. Linear algebra
 4. Limits
 5. Sequence and series
-6. Artificial intelligence.
+6. Machine learning
+7. Artificial intelligence.
    
